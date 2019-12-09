@@ -88,4 +88,4 @@ io-rabbitmq-sink | | | To Do
 io-rabbitmq-source | | | To Do
 io-redis-sink | | | To Do
 io-solr-sink | | | To Do
-io-twitter-source | | | To Do
+io-twitter-source | SylviaBABY | | In Progress
